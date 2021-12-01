@@ -1,0 +1,16 @@
+CREAR UN REPOSITORIO
+git init
+
+git clone URL
+
+VER ESTADO DEL REPOSITORIO
+git status
+
+VER COMMITS
+git log
+
+PASAR AL STAGING AREA
+git add .
+
+HACER COMMITS
+git commit -m 'Comentario descriptivo'
